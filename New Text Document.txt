@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-sua doi lan 4
-=======
-sua doi lan 1
->>>>>>> parent of 271538e... sua doi file txt lan 2
+dell co sua cc gi nua
