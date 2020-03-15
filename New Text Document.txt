@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sua doi lan 1
 sua doi lan 2
+=======
+ahihi
+>>>>>>> parent of 0c90119... sua doi file txt lan 1
